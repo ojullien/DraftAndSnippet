@@ -1,0 +1,127 @@
+stdClass Object
+(
+    [cols] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [id] => 
+                    [label] => Topping
+                    [pattern] => 
+                    [type] => string
+                )
+
+            [1] => stdClass Object
+                (
+                    [id] => 
+                    [label] => Slices
+                    [pattern] => 
+                    [type] => number
+                )
+
+        )
+
+    [rows] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [c] => Array
+                        (
+                            [0] => stdClass Object
+                                (
+                                    [v] => Mushrooms
+                                    [f] => 
+                                )
+
+                            [1] => stdClass Object
+                                (
+                                    [v] => 3
+                                    [f] => 
+                                )
+
+                        )
+
+                )
+
+            [1] => stdClass Object
+                (
+                    [c] => Array
+                        (
+                            [0] => stdClass Object
+                                (
+                                    [v] => Onions
+                                    [f] => 
+                                )
+
+                            [1] => stdClass Object
+                                (
+                                    [v] => 1
+                                    [f] => 
+                                )
+
+                        )
+
+                )
+
+            [2] => stdClass Object
+                (
+                    [c] => Array
+                        (
+                            [0] => stdClass Object
+                                (
+                                    [v] => Olives
+                                    [f] => 
+                                )
+
+                            [1] => stdClass Object
+                                (
+                                    [v] => 1
+                                    [f] => 
+                                )
+
+                        )
+
+                )
+
+            [3] => stdClass Object
+                (
+                    [c] => Array
+                        (
+                            [0] => stdClass Object
+                                (
+                                    [v] => Zucchini
+                                    [f] => 
+                                )
+
+                            [1] => stdClass Object
+                                (
+                                    [v] => 1
+                                    [f] => 
+                                )
+
+                        )
+
+                )
+
+            [4] => stdClass Object
+                (
+                    [c] => Array
+                        (
+                            [0] => stdClass Object
+                                (
+                                    [v] => Pepperoni
+                                    [f] => 
+                                )
+
+                            [1] => stdClass Object
+                                (
+                                    [v] => 2
+                                    [f] => 
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
