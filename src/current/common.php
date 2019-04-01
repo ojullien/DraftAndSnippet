@@ -1,8 +1,6 @@
 <?php
 declare (strict_types = 1);
 
-namespace DraftAndSnippet\current;
-
 function isTrue($value) : bool
 {
     return $value === true;

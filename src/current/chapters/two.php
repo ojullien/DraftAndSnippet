@@ -1,8 +1,6 @@
 <?php
 declare (strict_types = 1);
 
-namespace DraftAndSnippet\current;
-
 function main()
 {
     //test_02_01();
@@ -29,7 +27,6 @@ function test_02_07()
     echo sprintf($sFormat, 'f', 'TRUE', convertBoolToTxt($f), gettype($f));
 
 }
-
 
 function test_02_06()
 {
